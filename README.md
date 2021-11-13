@@ -82,6 +82,7 @@
 Выход:
 
 ![image](https://user-images.githubusercontent.com/70803921/141642130-bc6a66da-bff4-43f6-8ed5-4d6cab192000.png)
+
 Заводим нового пользователя:
 
 ![image](https://user-images.githubusercontent.com/70803921/141642140-7c894348-3abf-48b8-a2fd-8af430a6d79b.png)
