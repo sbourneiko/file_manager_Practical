@@ -80,8 +80,10 @@
 1. Сделайте файловый менеджер многопользовательским. Добавьте возможность регистрации пользователей. При регистрации каждому пользователю создается своя домашняя папка, в пределах которой он может работать.
 
 Выход:
+
 ![image](https://user-images.githubusercontent.com/70803921/141642130-bc6a66da-bff4-43f6-8ed5-4d6cab192000.png)
 Заводим нового пользователя:
+
 ![image](https://user-images.githubusercontent.com/70803921/141642140-7c894348-3abf-48b8-a2fd-8af430a6d79b.png)
 ![image](https://user-images.githubusercontent.com/70803921/141642211-2edcfdf5-6f84-45f9-be14-201ec0a647fb.png)
 ![image](https://user-images.githubusercontent.com/70803921/141642203-0206281a-36aa-451a-b546-729822fa9d18.png)
